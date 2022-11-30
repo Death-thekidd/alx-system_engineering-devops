@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -m -p -U
+ls -a -p -x -m
